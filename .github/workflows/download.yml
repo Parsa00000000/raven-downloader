@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       file_url:
-        description: https://cdn.poopeegirls.com/00/3015155.mp4
+        description: https://caspian7.cdn.asset.aparat.com/aparat-video/11cf0e52d39e9c8bacaf86540c1ffd0570578460-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJhNmI3NzllNjE4Y2U1YjFjZTNhMmRhNzdmZjM5NGM4IiwiZXhwIjoxNzc4NzIwMDI1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zkrn05T7jiECVpwkEEAseRV2YbpeLZzFVFsvBrUSYFQ
         required: true
         type: string
       file_rename:
