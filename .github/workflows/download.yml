@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       file_url:
-        description: 'لینک مستقیم فایل (Direct URL)'
+        description: https://cdn.poopeegirls.com/00/3015155.mp4
         required: true
         type: string
       file_rename:
-        description: 'نام دلخواه برای فایل با پسوند (اختیاری)'
+        description: yd1.mp4
         required: false
         type: string
         default: ''
